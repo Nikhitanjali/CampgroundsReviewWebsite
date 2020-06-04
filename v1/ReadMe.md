@@ -5,6 +5,4 @@ CRUD operations on both campgrounds and comments being posted on them.
 Built using: Java Script, HTML5, CSS3, Node JS, Express, MongoDB.
 Other required: Boot Strap 4.0, Mongoose, ejs, passport, passport-local, method-override, connect-flash, async.
 
->Install MongoDB
->Create a database named - camp_grounds
->Command to run the application - node app.js
+Install MongoDB, Create a database named - camp_grounds, Command to run the application - node app.js
