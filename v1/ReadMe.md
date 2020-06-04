@@ -7,4 +7,4 @@ Other required: Boot Strap 4.0, Mongoose, ejs, passport, passport-local, method-
 
 Install MongoDB
 Create a database named - camp_grounds
-Command to run the application - node app.js
+Command to run  - node app.js
